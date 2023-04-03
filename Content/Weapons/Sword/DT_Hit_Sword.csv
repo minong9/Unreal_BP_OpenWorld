@@ -1,4 +1,4 @@
-,Damage,Montage,PlayRate,CanMove,Launch,HitStop,Sound,ShakeClass,Effect,EffectLocation,EffectScale
-1,5,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',2,FALSE,100,0,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)"
-2,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',2,FALSE,100,0,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)"
-3,15,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',2,FALSE,100,0,,,ParticleSystem'/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Genno/P_Genno_Weapon_Lightning_01.P_Genno_Weapon_Lightning_01',"(X=0,Y=0,Z=-100)","(X=1,Y=1,Z=1)"
+,Damage,Montage,PlayRate,CanMove,Launch,LaunchRotator,HitStop,Sound,ShakeClass,Effect,EffectLocation,EffectScale,IsLaunchAttacker,NiagaraEffect
+1,5,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',2,FALSE,100,"(Pitch=0,Yaw=0,Roll=0)",0,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",FALSE,
+2,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',2,FALSE,100,"(Pitch=0,Yaw=0,Roll=0)",0,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",FALSE,
+3,15,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',2,FALSE,100,"(Pitch=0,Yaw=0,Roll=0)",0,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",FALSE,
