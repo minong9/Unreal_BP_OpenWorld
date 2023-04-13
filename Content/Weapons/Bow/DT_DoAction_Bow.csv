@@ -3,3 +3,4 @@
 2,AnimMontage'/Game/Character/Montages/Bow/Bow_Combo_01_Montage.Bow_Combo_01_Montage',1,TRUE,FALSE,Attack,FALSE
 3,AnimMontage'/Game/Character/Montages/Bow/Bow_Combo_02_Montage.Bow_Combo_02_Montage',1,TRUE,FALSE,Attack,FALSE
 4,AnimMontage'/Game/Character/Montages/Bow/Bow_Combo_03_Montage.Bow_Combo_03_Montage',1,TRUE,FALSE,Attack,FALSE
+5,AnimMontage'/Game/Character/Montages/Bow/Bow_Ctrl_1.Bow_Ctrl_1',1,FALSE,FALSE,Command_Ctrl_1,FALSE

@@ -12,3 +12,4 @@
 11,AnimMontage'/Game/Character/Montages/Katana/InUse/Combo/Air/Katana_AirAttack_Finish.Katana_AirAttack_Finish',1.25,FALSE,FALSE,Attack,TRUE
 12,AnimMontage'/Game/Character/Montages/Katana/InUse/Skill/Katana_Ctrl_1.Katana_Ctrl_1',1,FALSE,FALSE,Command_Ctrl_1,FALSE
 13,AnimMontage'/Game/Character/Montages/Katana/InUse/Skill/Katana_Dash.Katana_Dash',1,FALSE,FALSE,Command_R,FALSE
+14,AnimMontage'/Game/Character/Montages/Katana/InUse/Skill/Katana_Ctrl_2.Katana_Ctrl_2',1,FALSE,FALSE,Command_Ctrl_2,FALSE
