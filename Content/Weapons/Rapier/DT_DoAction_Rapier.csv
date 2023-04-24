@@ -1,6 +1,0 @@
-,Montage,PlayRate,CanMove,FixedCamera,ActionCommand,IsOwnerInAir
-1,AnimMontage'/Game/Character/Montages/Boss/Primary_Attack_A_Montage.Primary_Attack_A_Montage',1,FALSE,FALSE,Attack,FALSE
-2,AnimMontage'/Game/Character/Montages/Boss/Primary_Attack_B_Montage.Primary_Attack_B_Montage',1,FALSE,FALSE,Attack,FALSE
-3,AnimMontage'/Game/Character/Montages/Boss/Primary_Attack_C_Montage.Primary_Attack_C_Montage',1,FALSE,FALSE,Attack,FALSE
-4,AnimMontage'/Game/combo_04_4_Montage.combo_04_4_Montage',1,FALSE,FALSE,Attack,FALSE
-5,AnimMontage'/Game/combo_06_Montage.combo_06_Montage',1,FALSE,FALSE,Attack,FALSE
