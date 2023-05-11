@@ -1,7 +1,7 @@
 ,Montage,PlayRate,CanMove,FixedCamera,ActionCommand,IsOwnerInAir
-1,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Attack_Combo_1.Boss_Attack_Combo_1',0.75,FALSE,FALSE,Attack,FALSE
-2,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Attack_Combo_2.Boss_Attack_Combo_2',0.75,FALSE,FALSE,Attack,FALSE
-3,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Attack_Combo_3.Boss_Attack_Combo_3',0.75,FALSE,FALSE,Attack,FALSE
+1,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Short_1.Boss_Short_1',0.75,FALSE,FALSE,Attack,FALSE
+2,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Short_2.Boss_Short_2',0.75,FALSE,FALSE,Attack,FALSE
+3,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Short_3.Boss_Short_3',0.75,FALSE,FALSE,Attack,FALSE
 4,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Attack_Combo_4_Jump1.Boss_Attack_Combo_4_Jump1',1,FALSE,FALSE,Command_Ctrl_1,FALSE
 5,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Attack_Combo_5.Boss_Attack_Combo_5',1,FALSE,FALSE,Command_Ctrl_2,FALSE
 6,AnimMontage'/Game/02_Character/Montages/Boss/Combo/Boss_Attack_Combo_6.Boss_Attack_Combo_6',1,FALSE,FALSE,Command_R,FALSE
